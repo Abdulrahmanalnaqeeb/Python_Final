@@ -94,7 +94,7 @@ Bu proje, sadece bir teknik uygulama değil; **veri biliminin eğitimde strateji
 ![cinsiyet göre matamatik notları](https://github.com/user-attachments/assets/1de6babb-b3d8-4890-9bbb-a43b870eca12)
 
         ----------------------------------------------------------------------------------------------------
-        ![Test haz göre okuma skoru](https://github.com/user-attachments/assets/8f82eaf9-5600-438e-b434-ae43846de6fd)
+![Test haz göre okuma skoru](https://github.com/user-attachments/assets/50f00b6d-b6f3-420a-808e-95c696b49124)
 
 ----------------------------------------------------------------------------------------------------
 
