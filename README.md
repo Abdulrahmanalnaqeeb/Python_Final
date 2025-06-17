@@ -128,4 +128,5 @@ Bu proje, sadece bir teknik uygulama değil; **veri biliminin eğitimde strateji
 
 ----------------------------------------------------------------------------------------------------
 
+![Figure_1](https://github.com/user-attachments/assets/9c760932-bebf-46fc-87bf-2d81fd6fb33a)
 
