@@ -14,7 +14,6 @@ Veri seti, 1000 öğrencinin aşağıdaki bilgilerini içermektedir:
 * Cinsiyet (`gender`)
 * Etnik Grup (`race/ethnicity`)
 * Ebeveyn Eğitim Düzeyi (`parental level of education`)
-* Öğle Yemeği Durumu (`lunch`)
 * Test Hazırlık Kursu Katılımı (`test preparation course`)
 * Matematik, Okuma ve Yazma Puanları (`math`, `reading`, `writing score`)
 * Ortalama Başarı (`average_score`)
